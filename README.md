@@ -8,4 +8,5 @@
 mxy9591528/mxy9591528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I am  a Personal learner for programming.
+I am  a Personal earner for programming.
+Now it haven't  being used for work
